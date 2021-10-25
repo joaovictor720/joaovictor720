@@ -1,4 +1,4 @@
-### Hi there 👋
+### First year Computer Engineering student at Universidade Federal da Paraíba. Good understanding on C and getting familiar with C++. 👋
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor720&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 <!--
