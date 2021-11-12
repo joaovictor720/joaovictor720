@@ -22,7 +22,7 @@
     </a>
   </li>
 </p>
-<div>Ícones feitos por <a href="https://www.flaticon.com/br/autores/pixel-buddha" title="Pixel Buddha">Pixel Buddha</a> from <a href="https://www.flaticon.com/br/" title="Flaticon">www.flaticon.com</a></div>
+
 <!--
 **joaovictor720/joaovictor720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
