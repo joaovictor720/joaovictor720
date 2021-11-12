@@ -15,6 +15,12 @@
       @jv_bezerra_
     </a>
   </li>
+  <li>
+    <a href="https://twitter.com/juaovic1">
+      <img height="13em" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Flogosmarcas.net%2Ftwitter-logo%2F&psig=AOvVaw0uQ0it_C5V0aADQ32jKEOA&ust=1636847449530000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCMjm6I2ClPQCFQAAAAAdAAAAABAD"/>
+      @juaovic1
+    </a>
+  </li>
 </p>
 
 <!--
