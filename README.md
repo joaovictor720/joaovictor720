@@ -9,7 +9,10 @@
 
 <p align="center">
   <li>
-    <a href="https://www.instagram.com/jv_bezerra_/?hl=pt-br">@jv_bezerra_</a>
+    <a href="https://www.instagram.com/jv_bezerra_/?hl=pt-br">
+      @jv_bezerra_
+      <img height="30em" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>
+    </a>
   </li>
 </p>
 
