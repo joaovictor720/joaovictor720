@@ -17,7 +17,7 @@
   </li>
   <li>
     <a href="https://twitter.com/juaovic1">
-      <img height="13em" src="https://www.clipartmax.com/png/small/166-1661038_follow-us-twitter-logo-for-html.png" alt="Follow Us - Twitter Logo For Html @clipartmax.com"/>
+      <img height="13em" src=https://cdn-icons-png.flaticon.com/512/145/145812.png/>
       @juaovic1
     </a>
   </li>
