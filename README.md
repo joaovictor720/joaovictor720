@@ -11,7 +11,7 @@
 <p align="center">
   <li>
     <a href="https://www.instagram.com/jv_bezerra_/?hl=pt-br">
-      <img height="10em" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>
+      <img height="13em" src="https://image.flaticon.com/icons/png/512/174/174855.png"/>
       @jv_bezerra_
     </a>
   </li>
