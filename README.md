@@ -1,6 +1,14 @@
 ### Hello there! 👋
 ### I'm a first year Computer Engineering student at Universidade Federal da Paraíba. Got some good understanding on C, and I am currently getting familiar with Object-Oriented Programming using C++.
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor720&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaovictor720&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+</p>
+
+<p>
+  <li>
+    <a href="https://www.instagram.com/jv_bezerra_/?hl=pt-br">@jv_bezerra_</a>
+  </li>
+</p>
 
 <!--
 **joaovictor720/joaovictor720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
