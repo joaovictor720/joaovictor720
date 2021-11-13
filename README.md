@@ -24,7 +24,7 @@
   <li>
     <a href="https://www.linkedin.com/in/joao-nascimento-409750214/">
       <img height="13em" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
-      João Victor Silva
+      João Victor
     </a>
   </li>
 </p>
