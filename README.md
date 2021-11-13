@@ -17,7 +17,7 @@
   </li>
   <li>
     <a href="https://twitter.com/juaovic1">
-      <img height="13em" src="![twitter](https://user-images.githubusercontent.com/81996683/141596989-03a8150f-8825-40a0-ac96-0671be17ea69.png)"/>
+      <i class="fab fa-twitter"></i>
       @juaovic1
     </a>
   </li>
