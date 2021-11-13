@@ -17,7 +17,7 @@
   </li>
   <li>
     <a href="https://twitter.com/juaovic1">
-      <i class="fab fa-twitter"></i>
+      <img height="13em" src="https://icon-library.com/icon/twitter-web-icon-19.html.html>Twitter Web Icon # 228915"/>
       @juaovic1
     </a>
   </li>
