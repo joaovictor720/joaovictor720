@@ -17,8 +17,14 @@
   </li>
   <li>
     <a href="https://twitter.com/juaovic1">
-      <img height="13em" src="https://icon-library.com/icon/twitter-web-icon-19.html.html"/>
+      <img height="13em" src="https://www.clipartmax.com/png/small/166-1661038_follow-us-twitter-logo-for-html.png"/>
       @juaovic1
+    </a>
+  </li>
+  <li>
+    <a href="https://www.linkedin.com/in/joao-nascimento-409750214/">
+      <img height="13em" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
+      João Victor Silva
     </a>
   </li>
 </p>
