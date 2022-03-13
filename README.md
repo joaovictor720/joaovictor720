@@ -1,5 +1,5 @@
 ### Hello there! 👋
-### I'm a first year Computer Engineering student at Universidade Federal da Paraíba. Got some good understanding on C, and I am currently getting familiar with Object-Oriented Programming using C++.
+### I'm an undergraduate in Computer Engineering at Universidade Federal da Paraíba. Got some good understanding on C, and I am currently getting familiar with Object-Oriented Programming using C++.
 <p align="center">
   <a href="">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaovictor720&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
