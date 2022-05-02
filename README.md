@@ -22,7 +22,7 @@
     </a>
   </li>
   <li>
-    <a href="https://www.linkedin.com/in/joao-nascimento-409750214/">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-s-b-nascimento-409750214/">
       <img height="13em" src="https://image.flaticon.com/icons/png/512/174/174857.png"/>
       João Victor S. B. Nascimento
     </a>
