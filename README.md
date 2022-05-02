@@ -1,5 +1,5 @@
 ### Hello there, my name is João Victor! 👋
-### I'm an undergraduate in Computer Engineering at Universidade Federal da Paraíba. I have some experience with C/C++ and Object-Oriented Programming, and now I'm learning more about Concurrent Programming with Java.
+### I'm an undergraduate in Computer Engineering at Universidade Federal da Paraíba. I have some experience with C/C++ and Object-Oriented Programming, and now I'm learning more about Concurrent and Distributed Programming with Java.
 <p align="center">
   <a href="">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaovictor720&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
