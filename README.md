@@ -7,6 +7,7 @@
     <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaovictor720&layout=compact&langs_count=7&theme=tokyonight"/>
   </a>
 </p>
+![linkedin](https://user-images.githubusercontent.com/81996683/208731950-9242d2da-4322-404f-9212-ffc808c8d6a3.svg)
 
 ### You can find me at:
 <p align="center">
