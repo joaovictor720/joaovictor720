@@ -1,5 +1,6 @@
-### Hello there, my name is João Victor! 👋
-### I'm an Computer Engineering undergraduate at Universidade Federal da Paraíba (federal university - UFPB). I have experience with C/C++, Object-Oriented Programming, and now I'm learning more about backend development with Java.
+### My name is João Victor, and I am a 20 years old brazilian Computer Engineering student at UFPB (Universidade Federal da Paraíba).
+
+### I have big interest in various STEM areas, such as Pure Mathematics, Computer Architecture, Software Architecture, as well as Competitive Programming in the free time. Outside of my academic scope, I am focusing on web development with Spring Boot and React.
 <p align="center">
   <a href="">
     <img height="140em" src="https://github-readme-stats.vercel.app/api?username=joaovictor720&theme=tokyonight&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
