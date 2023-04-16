@@ -1,4 +1,4 @@
-### My name is João Victor, and I am a 20 years old brazilian Computer Engineering student at UFPB (Universidade Federal da Paraíba).
+### My name is João Victor, I am a 20 years old brazilian Computer Engineering student at UFPB (Universidade Federal da Paraíba).
 
 ### I have big interest in various STEM areas, such as Pure Mathematics, Computer Architecture, Software Architecture, as well as Competitive Programming in the free time.
 <p align="center">
