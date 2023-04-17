@@ -17,7 +17,7 @@
     </a>
   </li>
   <li>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-s-b-nascimento-409750214/">
+    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-409750214/">
       <img height="13em" src="https://user-images.githubusercontent.com/81996683/208731883-5ce8c4e3-ae64-4ace-a5a6-484ab2129515.svg"/>
       João Victor Nascimento
     </a>
