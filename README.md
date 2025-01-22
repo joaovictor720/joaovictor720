@@ -1,7 +1,6 @@
 ### My name is João Victor, I am a 22 years old brazilian Computer Engineering student at UFPB (Universidade Federal da Paraíba).
 
 ### I have big interest in various STEM areas, such as Pure Mathematics, Computer Architecture, and many other Low Level subjects of computing. I also like to do some Competitive Programming in the free time.
-### I'm currently working as a Ultra-Low Latency researcher at LASER-UFPB.
 
 <p align="center">
   <a href="">
