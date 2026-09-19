@@ -1,34 +1,18 @@
-### My name is João Victor, I am a 23 years old brazilian Computer Engineering student at UFPB (Universidade Federal da Paraíba).
+## Hi there, I'm João Victor Nascimento 👋
 
-### I have big interest in various STEM areas, such as Pure Mathematics, Computer Architecture, and many other Low Level subjects of computing. I also like to do some Competitive Programming in the free time.
+Computer Engineering student at UFPB (Brazil), pursuing a double degree in Aviation Systems & Software at **ENAC** and a Master 2 in Advanced Communication Systems (ACS) at **ISAE-SUPAERO** (Toulouse, France).
 
-### You can find me at:
-<p align="center">
-  <li>
-    <a href="https://www.instagram.com/jv_bezerra_/?hl=pt-br">
-      <img height="13em" src="https://user-images.githubusercontent.com/81996683/208732368-02999b1d-408a-4cda-b159-b64f63240fc4.svg"/>
-      @jv_bezerra_
-    </a>
-  </li>
-  <li>
-    <a href="https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-409750214/">
-      <img height="13em" src="https://user-images.githubusercontent.com/81996683/208731883-5ce8c4e3-ae64-4ace-a5a6-484ab2129515.svg"/>
-      João Victor Nascimento
-    </a>
-  </li>
-</p>
+### Background & Research
+* **Research Focus:** Distributed Systems, Network Emulation, Drone Swarm Replication, and Computer Vision.
+* **Publication:** Co-author of *"Leveraging Multicast Primitives for Highly Available Replication in Drone Swarms"* (SBRC 2026).
+* **International Experience:** Research secondment in UAV Traffic Monitoring at CERTH/HIT (Greece).
+* **Professional Experience:** Former Software QA and Full-Stack Development Intern at testRigor, working with Java, Spring, JavaScript, and automated testing.
 
-<!--
-**joaovictor720/joaovictor720** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Core Skills & Languages
+* **Programming:** C, C++17, Python, Java, JavaScript, Assembly (x86/PIC), Bash
+* **Frameworks & Tools:** Linux, Spring, React, OpenCV, PyTorch, YOLO, JavaFX, OpenGL, Git
+* **Languages:** 🇧🇷 Portuguese (Native) | 🇬🇧 English (Fluent) | 🇫🇷 French (B2)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Contact
+* **LinkedIn:** [linkedin.com/in/joão-victor-nascimento-409750214](https://www.linkedin.com/in/jo%C3%A3o-victor-nascimento-409750214/)
+* **Email:** [silvajoao720@gmail.com](mailto:silvajoao720@gmail.com)
